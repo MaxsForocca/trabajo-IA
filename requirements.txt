@@ -1,0 +1,5 @@
+pandas
+notebook==7.4.4
+numpy
+matplotlib
+pycaret
