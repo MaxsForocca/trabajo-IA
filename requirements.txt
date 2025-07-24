@@ -1,5 +1,11 @@
-pandas
+# Manipulacion de datos
+pandas==2.1.4
+# Jupyter Notebook
 notebook==7.4.4
-numpy
-matplotlib
-pycaret
+# Calculo
+numpy==1.26.4
+# Graficar
+matplotlib==3.7.5
+seaborn==0.13.2
+# Machine Learning
+pycaret==3.3.2
