@@ -9,3 +9,8 @@ matplotlib==3.7.5
 seaborn==0.13.2
 # Machine Learning
 pycaret==3.3.2
+# Algoritmos de Machine Learning
+# CatBoost
+catboost==1.2.8
+# xgboost
+xgboost==3.0.2
