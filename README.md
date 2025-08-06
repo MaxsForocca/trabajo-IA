@@ -4,7 +4,7 @@ Trabajo Final de IA
 ## Clonar repositorio
  
 > ```powershell
-> git clone "url del repo"
+> git clone https://github.com/MaxsForocca/trabajo-IA.git
 > ```
 
 ## Crear entorno virtual
